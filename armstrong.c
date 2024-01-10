@@ -2,6 +2,7 @@
 int cubesum(int n);
 int isarmstrong(int n);
 int printarmstrong(int n);
+//armstrong is sum of cube of each digit of a number
 int main()
 {
 	int n;
